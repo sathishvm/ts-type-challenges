@@ -1,0 +1,19 @@
+{
+  "name": "ts-type-challenges",
+  "version": "1.0.0",
+  "description": "My solutions to various challenges from type-challenges. This is part of my journey to improve my TypeScript skills by exploring advanced type utilities and concepts.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sathishvm/ts-type-challenges"
+  },
+  "license": "ISC",
+  "author": "sathishvm",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
